@@ -1,4 +1,5 @@
-     Resume for Steven E. Newton
+     Resume for Steven E. Newton, Code Janitor
+
 # Executive Summary
 * Polishes old code
 * Understands business needs
