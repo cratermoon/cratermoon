@@ -15,7 +15,7 @@
 
 **Languages** Go, Java, JavaScript/ES6, Ruby, Perl
 
-**Frameworks and Persistence** gorilla-mux, dropwizard, redis, PostgresSQL, MongoDB, MySQL
+**Frameworks and Persistence** passport-js, gorilla-mux, dropwizard, redis, PostgresSQL, MongoDB, MySQL
 
 **OS and environments** Linux, OS X, Windows, AWS, docker,, kubernetes
 
