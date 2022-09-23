@@ -25,6 +25,10 @@
 
 ## Work History
 
+#### Senior Go Engineer — Eliassen, 8/22 - present
+
+> Alaska Airlines Check-in Modernization Program
+
 #### Senior Software Engineer, Team Lead — Xandr, 4/19 - 5/21
 Environments: auth0, SAML2, OIDC, docker, kubernetes, dropwizard
 > UXUA: Universal Xandr User Authentication
