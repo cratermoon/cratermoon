@@ -1,5 +1,5 @@
 #!/bin/sh
 
 # requires pandoc and a TeX installation with the Baskervald font
-
-pandoc --template eisvogel  --metadata title="Engineer. Applied Philosopher. Code Janitor" -V geometry:"left=1.5in, right=1in" -V fontfamily="baskervald" README.md -f gfm -o resume.pdf
+LATEX_TEMPLATE="${1:-eisvogel}"
+pandoc --pdf-engine=xelatex --template $LATEX_TEMPLATE  --metadata title="Engineer. Applied Philosopher. Code Janitor" -V geometry:"left=1.5in, right=1in" -V fontfamily="baskervald" README.md -f gfm -o resume.pdf
