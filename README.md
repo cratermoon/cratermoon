@@ -19,7 +19,7 @@
 
 **Frameworks and Persistence** passport-js, gorilla-mux, dropwizard, redis, PostgresSQL, MongoDB, MySQL
 
-**OS and environments** Linux, OS X, Windows, AWS, docker,, kubernetes
+**OS and environments** Linux, OS X, Windows, AWS, docker, Kubernetes
 
 **Coding environments** VS Code, IntelliJ, 
 
@@ -27,7 +27,7 @@
 
 ### Work History
 
-##### Senior Go Engineer — Eliassen, 8/22 - present
+##### Senior Go Engineer — Eliassen, 8/22 - 5/23
 
 > Alaska Airlines Check-in Modernization Program
 
@@ -58,7 +58,7 @@ Major contributions include correcting, improving, and stabilizing SAML2 service
 * Provided key feedback to product and customer success teams for responding to complex and demanding customer needs
 * Helped identify and reduce technical debt while maintaining rapid release schedule meeting customer needs
 * Maintained test Shibboleth SAML2 IdP
-* Expanded and improved cucumber test framwork
+* Expanded and improved cucumber test framework
 * Promulgated standards for developer tests and pre-commit discipline.
 * Contributed to improving git flow for development process
 
@@ -66,7 +66,7 @@ Environments: Go language, SAML2, cucumber & gherkin, vagrant, docker, gorilliam
 
 ##### Lead Software Engineer, Janrain, Inc, Portland, OR, 07/12 to 04/15
 
-> Social login platform built on a variety of technoligies and deployed wholly on AWS
+> Social login platform built on a variety of technologies and deployed wholly on AWS
 
 * Migrated Java Spring application persistence layer from Amazon SimpleDB to redis
 * Raised  uptime of key component to five 9s
@@ -89,7 +89,7 @@ Environments: PTC Windchill, Ant, ClearCase, Spring MVC
 > eXPRS project, handling millions of dollars in state funding for disabled and indigent care recipients
 
 * Developed and maintained automated build system
-* Mentored and taught effective unit testing tools  that improved productivity
+* Mentored and taught effective unit testing tools leading to improved productivity
 * Key designer and developer of security component
 * Assumed role of QC lead in transition to maintenance mode
 * Resolved J2EE transaction-related problems
