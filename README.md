@@ -18,17 +18,19 @@
 
 > Alaska Airlines Check-in Modernization Program
 
+Migrated the check-in experience from a third-party platform to modern, in-house Go in Kubernetes system
+
 ##### Senior Software Engineer, Team Lead — Xandr, 4/19 - 5/21
 
 > UXUA: Universal Xandr User Authentication
 
-Extending single sign-on across all customer-facing applications with SAML and OpenID Connect. Federated identity management, identity mapping, and account mapping
+Extended federated single sign-on across all customer-facing applications with SAML and OpenID Connect. Federated identity management, identity mapping, and account mapping
 
 ##### Senior Software Engineer, IGNW — Xandr, 10/18 - 3/19
 
 > AppNexus Console
 
-Implementing single sign-on for a web application with SAML and OpenID Connect
+Implemented federated single sign-on for the core product website with SAML and OpenID Connect
 
 ##### Software Engineer, Treetop Commons, LLc, Portland, OR, 02/17 to 10/17
 
@@ -36,7 +38,7 @@ Implementing single sign-on for a web application with SAML and OpenID Connect
 
 Major contributions include correcting, improving, and stabilizing SAML2 service provider implementation, s3 asset management improvements, refining and expanding cucumber integration tests, and implementing Go-based microservices.
 
-* Improved the spec-compliance and flexibility of a custom in-house SAML2 service provider implemenation
+* Improved the spec-compliance and flexibility of a custom in-house SAML2 service provider implementation
 * Implemented key vagrant vm configurations for developing and testing SAML SSO configurations
 * Provided key feedback to product and customer success teams for responding to complex and demanding customer needs
 * Helped identify and reduce technical debt while maintaining rapid release schedule meeting customer needs
@@ -52,7 +54,7 @@ Major contributions include correcting, improving, and stabilizing SAML2 service
 * Migrated Java Spring application persistence layer from Amazon SimpleDB to redis
 * Raised  uptime of key component to five 9s
 * Team lead for small-medium teams
-* Release planning in collaboration with product manager
+* Planned releases in collaboration with product manager
 * Assisted in migration of backend services to Scala microservice architecture
 
 ## Relevant Skills
@@ -71,7 +73,6 @@ Major contributions include correcting, improving, and stabilizing SAML2 service
 
 ## Education
 
-University of Texas at Austin    
-Bachelor of Journalism    
+University of Texas at Austin, Bachelor of Journalism    
 
 Coursework was primarily documentary photojournalism; electives included 20 hours of computers science courses covering algorithms, FORTRAN, Pascal, assembly language, and Prolog
