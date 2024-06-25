@@ -1,6 +1,3 @@
----
-fontsize: 10pt
----
 # Steven E. Newton
 
 ## Executive Summary

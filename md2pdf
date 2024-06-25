@@ -2,4 +2,4 @@
 
 # requires pandoc and a TeX installation with the Baskervald font
 LATEX_TEMPLATE="${1:-resume}"
-pandoc --pdf-engine=xelatex --template $LATEX_TEMPLATE  --metadata title="Engineer. Applied Philosopher. Code Janitor" -V geometry:"left=1.5in, right=1in" -V fontfamily="baskervald" README.md -f gfm -o resume.pdf
+pandoc --pdf-engine=xelatex --template $LATEX_TEMPLATE --metadata fontsize=10pt --metadata title="Engineer. Applied Philosopher. Code Janitor. Symmathecist" -V geometry:"left=1.5in, right=1in" -V fontfamily="baskervald" README.md -f gfm -o resume.pdf
