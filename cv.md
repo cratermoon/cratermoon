@@ -141,6 +141,13 @@ Environments: Java, Windows,  BEA EJB server, Sybase, NLP WordNet, JNI, JMS Micr
 
 Environments: Perl, Apache, embedded Perl, Sybase, ETAK
 
+##### Systems Engineer, Connections.com, Inc., 12/95 to 04/95
+
+* Installed, configured, and administered the HP-UX server for a small Internet Services Provider
+* Installed and supported several dozen user dial-up services (PPP, SLIP).
+
+Environments: HP-UX
+
 ##### Network Support Specialist II, University of Texas at Houston, 12/94 to 03/97
 
 * Deployed LDAP & X.500 directory services and built custom desktop and web applications to access it
@@ -148,6 +155,25 @@ Environments: Perl, Apache, embedded Perl, Sybase, ETAK
 * Founding team member of Office of Academic Computing
 
 Environments: C, TCP/IP
+
+##### Programmer I, University of Texas Health Science Center, Office of Academic Computing 05/91 to 11/94
+-----------------------------------------------------------------------
+
+* TCP/IP client/server programming in DOS and Windows
+* HP-UX system administration
+* Ingres relational database programming. 
+* Analyzed and developed a database application for federally-mandated tracking of research projects involving animals, experimental drugs and human
+subjects.
+
+##### User Services Manager, University of Texas Medical School, 10/89 to 04/91
+
+* Duties included maintenance and development of MS-DOS PCs on a
+TCP/IP network using NFS, UNIX systems support, training students
+to use educational software.
+
+##### Computer Operator, University of Texas Cancer Center, Summers 1983 and 1984
+
+* Operated CDC and Digital mainframe computers in a research and academic computer center
 
 ### Education
 
