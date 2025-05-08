@@ -157,7 +157,6 @@ Environments: HP-UX
 Environments: C, TCP/IP
 
 ##### Programmer I, University of Texas Health Science Center, Office of Academic Computing 05/91 to 11/94
------------------------------------------------------------------------
 
 * TCP/IP client/server programming in DOS and Windows
 * HP-UX system administration
