@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# requires pandoc and a TeX installation with the Baskervald font
+
+LATEX_TEMPLATE="${1:-resume}"
+pandoc --template "$LATEX_TEMPLATE" --pdf-engine=xelatex  -V fontsize=9pt --metadata title="Applied Philosopher. Code Janitor. Symmathecist" -V geometry:scale=0.8 -V fontfamily:"baskervald" eliassen_resume.md -f gfm -o eliassen_resume.pdf
