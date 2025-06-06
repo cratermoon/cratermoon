@@ -1,0 +1,79 @@
+\documentclass[10pt,a4paper]{article}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}%
+  \vspace{-\parsep}%
+  \let\olditemize=\enditemize%
+  \def\enditemize{\vspace{-\parsep}\olditemize\let\enditemize=\olditemize}%
+}
+\setcounter{secnumdepth}{-\maxdimen}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{amsmath,amssymb}
+\usepackage{parskip}[parfill]
+\setlength{\parindent}{1em}
+\usepackage{tgtermes}
+\usepackage[T1]{fontenc}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage[includehead=true,includefoot=true,top=20mm,bottom=20mm,centering,scale=.75]{geometry}
+
+\usepackage{xcolor}
+\definecolor{default-linkcolor}{HTML}{16166F}
+\definecolor{default-filecolor}{HTML}{16166F}
+\definecolor{default-citecolor}{HTML}{16166F}
+\definecolor{default-urlcolor}{HTML}{0000E9}
+\definecolor{text-color}{HTML}{16161D}
+\definecolor{page-bgcolor}{HTML}{FAFAFA}
+\color{text-color}
+\usepackage{hyperref}
+
+
+\usepackage{fontspec}
+\setmainfont{$mainfont$}
+
+\hypersetup{
+    pdfcreator={XeLaTeX via pandoc with the cratermoon template},
+    pdftitle={$title$}
+    hidelinks=true,
+    colorlinks=true,
+    linkcolor=default-linkcolor,
+    urlcolor=default-urlcolor,
+    citecolor=default-citecolor,
+    filecolor=default-filecolor,
+}
+
+\usepackage{fancyhdr}
+\fancypagestyle{}{
+}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{steven.e.newton@gmail.com}
+\fancyhead[R]{971.533.4941}
+\fancyfoot[L]{Engineer. Applied Philosopher. Code Janitor. Symmathecist}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+\begin{document}
+
+$if(titlepage)$
+\begin{titlepage}
+\setstretch{1.4}
+\vfill
+\noindent {\huge \textbf{\textsf{$title$}}}
+$if(subtitle)$
+\vskip 1em
+{\Large \textsf{$subtitle$}}
+$endif$
+\setstretch{1.0}
+\vskip 2em
+\noindent {\Large \textsf{$for(author)$$author$$sep$, $endfor$}}
+\vfill
+\end{titlepage}
+$endif$
+\begin{singlespace*}
+\setstretch{0.67}
+$body$
+\end{singlespace*}
+
+\end{document}
