@@ -1,7 +1,7 @@
 \documentclass[10pt,a4paper]{article}
 
 \providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}%
+  \setlength{\itemsep}{2pt}\setlength{\parskip}{2pt}%
   \vspace{-\parsep}%
   \let\olditemize=\enditemize%
   \def\enditemize{\vspace{-\parsep}\olditemize\let\enditemize=\olditemize}%
@@ -72,7 +72,7 @@ $endif$
 \end{titlepage}
 $endif$
 \begin{singlespace*}
-\setstretch{0.67}
+\setstretch{0.75}
 $body$
 \end{singlespace*}
 
