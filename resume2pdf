@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# requires pandoc and a TeX installation with the Baskervald font
+LATEX_TEMPLATE="${1:-resume2}"
+pandoc --pdf-engine=xelatex --template $LATEX_TEMPLATE --metadata fontsize=10pt -V geometry:"left=1.25in, right=1in" -V mainfont="baskervaldx" 2025.05.resume.md  -f gfm -o resume.pdf

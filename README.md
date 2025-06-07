@@ -1,78 +1,64 @@
 # Steven E. Newton
 
-## Executive Summary
+Senior Software Engineer with deep expertise in modernizing legacy systems.
+Proven track record in migrating and realigning heritage systems to improve platform stability
+while enhancing internal and partner user needs and long-term maintainability.
 
-* Polishes old code
-* Understands business needs
-* Leads agile teams
-* Mentors junior programmers
-* Detangles knotted processes
-* Tackles tough problems
-* Jack-of-all-languages
-* Defuses crises with humor
+## PROFESSIONAL HIGHLIGHTS
 
+Experienced in testing, producing clear documentation, and communicating business needs. Demonstrated mastery of a wide range of languages and frameworks, large-scale distributed systems delivered at scale, and driving maintainable and responsive code.
 
-## Professional Experience
+Quick to grasp unfamiliar codebases, apply inventive troubleshooting skills, and discover and analyze anomalies across complex system environments
 
-##### Senior Go Engineer — Eliassen, 8/22 - 5/23
+Proven track record in mentoring both technical and soft skills, team building, and enabling effective collaboration
 
-> Alaska Airlines Check-in Modernization Program
+Keen to reconcile technical and organizational value to meet organizational needs, contribute to core business functions, and align with business goals
 
-Migrated the check-in experience from a third-party platform to modern, in-house Go in Kubernetes system
+Enjoys simplifying complex topics, mentoring, guiding to growth, solving problems, and improving existing code.
 
-##### Senior Software Engineer, Team Lead — Xandr, 4/19 - 5/21
+## RELEVANT SKILLS
 
-> UXUA: Universal Xandr User Authentication
+* Languages: Go, Java, JavaScript 
+* Frameworks and Persistence: passport‑js, gorilla‑mux, dropwizard, redis, major relational databases
+* OS and environments: Linux, OS X, AWS, Docker, Kubernetes
+* Coding environments: VS Code, IntelliJ, Eclipse
+* Tools: git, maven, Jira
 
-Extended federated single sign-on across all customer-facing applications with SAML and OpenID Connect. Federated identity management, identity mapping, and account mapping
+## PROFESSIONAL EXPERIENCE AND PROJECTS
 
-##### Senior Software Engineer, IGNW — Xandr, 10/18 - 3/19
+### Senior Go Engineer - Eliassen – 2022 - 2023 
 
-> AppNexus Console
+> Alaska Airlines Check-In Modernization Program
 
-Implemented federated single sign-on for the core product website with SAML and OpenID Connect
+* Migrated the check‑in experience from a third‑party platform to modern, in‑house Go in Kubernetes
 
-##### Software Engineer, Treetop Commons, LLc, Portland, OR, 02/17 to 10/17
+### Senior Software Engineer, Team Lead - Xandr – 2018 - 2021
+
+> AppNexus Console and UXUA: Universal Xandr User Authentication
+
+* Implemented federated single sign‑on for the core product website with SAML and OpenID Connect
+* Extended federated single sign-on across all customer-facing applications with SAML and OpenID Connect.
+  Federated identity management, identity mapping, and account mapping.
+
+### Software Engineer - Treetop Commons, LLC – 2017 
 
 > NobleHour and Collaboratory
 
-Major contributions include correcting, improving, and stabilizing SAML2 service provider implementation, s3 asset management improvements, refining and expanding cucumber integration tests, and implementing Go-based microservices.
+* Corrected, improved, and stabilized SAML2 service provider implementation, s3 asset management;
+  refined and expanded cucumber integration tests;
+  implemented Go-based microservices
 
-* Improved the spec-compliance and flexibility of a custom in-house SAML2 service provider implementation
-* Implemented key vagrant vm configurations for developing and testing SAML SSO configurations
-* Provided key feedback to product and customer success teams for responding to complex and demanding customer needs
-* Helped identify and reduce technical debt while maintaining rapid release schedule meeting customer needs
-* Maintained test Shibboleth SAML2 IdP
-* Expanded and improved cucumber test framework
-* Promulgated standards for developer tests and pre-commit discipline.
-* Contributed to improving git flow for development process
-
-##### Lead Software Engineer, Janrain, Inc, Portland, OR, 07/12 to 04/15
+### Lead Software Engineer - Janrain, Inc – 2012 - 2015
 
 > Social login platform built on a variety of technologies and deployed wholly on AWS
 
-* Migrated Java Spring application persistence layer from Amazon SimpleDB to redis
-* Raised  uptime of key component to five 9s
-* Team lead for small-medium teams
-* Planned releases in collaboration with product manager
-* Assisted in migration of backend services to Scala microservice architecture
+* Migrated Java Spring application persistence layer from Amazon SimpleDB to redis, and raised uptime of key component to five 9s
 
-## Relevant Skills
+## INTERESTS/HOBBIES/AWARDS
 
-**Skills** Working with legacy/heritage code, Bug finding and fixing, Quick problem solving
+* Photography – Award winning film photographer specializing in black and white techniques
+* Guitar
 
-**Languages** Go, Java, JavaScript/ES6, Ruby, Perl
+## EDUCATION
 
-**Frameworks and Persistence** passport-js, gorilla-mux, dropwizard, redis, major relational databases
-
-**OS and environments** Linux, OS X, Windows, AWS, Docker, Kubernetes
-
-**Coding environments** VS Code, IntelliJ, Eclipse
-
-**Tools** git, maven, CircleCI, Jira, cucumber
-
-## Education
-
-University of Texas at Austin, Bachelor of Journalism    
-
-Coursework was primarily documentary photojournalism; electives included 20 hours of computers science courses covering algorithms, FORTRAN, Pascal, assembly language, and Prolog
+University of Texas, Austin — Austin, Texas Bachelor of Arts, Journalism
