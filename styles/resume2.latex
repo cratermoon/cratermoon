@@ -11,7 +11,6 @@
 \usepackage{lmodern}
 \usepackage{amsmath,amssymb}
 \usepackage{parskip}[parfill]
-\setlength{\parindent}{1em}
 \usepackage{tgtermes}
 \usepackage[T1]{fontenc}
 \usepackage{setspace}
