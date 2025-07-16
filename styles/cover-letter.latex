@@ -1,0 +1,24 @@
+\documentclass[version=last,backaddress=false,fromphone,fromemail,fromrule=aftername,fromalign=right,foldmarks=false]{scrlttr2}
+\usepackage[english]{babel}
+\usepackage{hyperref}
+\usepackage{fontspec}
+\setmainfont{baskervaldx}
+\setkomavar{firstfoot}[]{Applied Philosopher. Code Janitor. Symmathecist}
+\setkomavar{fromname}{Steven E. Newton}
+\setkomavar{signature}{Steven E. Newton}
+\setkomavar{fromurl}{https://cmdev.com}
+\setkomavar{fromphone}{971.533.4941}
+\setkomavar{fromemail}{steven.e.newton@gmail.com}
+\begin{document}
+\begin{letter}{%
+Hiring Team \\%
+$employer$
+}
+\opening{Greetings,}%
+My name is Steven E. Newton.
+$body$
+I look forward to hearing from you.
+Thank you for this opportunity.
+\closing{Yours,}
+\end{letter}
+\end{document}

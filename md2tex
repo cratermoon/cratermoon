@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# requires pandoc and a TeX installation with the Baskervald font
+LATEX_TEMPLATE=resume2
+OUTFILE=$(basename $1 .md)
+pandoc --pdf-engine=lualatex --template $LATEX_TEMPLATE --metadata fontsize=10pt --metadata title="Engineer. Applied Philosopher. Code Janitor. Symmathecist" -V geometry:"left=.75in, right=.5in" -V linestretch=.8 -V mainfont="baskervaldx" ${1} -f gfm -o ${OUTFILE}.tex
